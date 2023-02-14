@@ -1,0 +1,17 @@
+h1{
+	text-align: center;
+	font-weight: 700;
+	text-decoration: #123456 wavy underline ;
+	letter-spacing: 16px;
+	font-size: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+	text-align: right;
+	font-weight: 400;
+}
+
+a{
+	text-decoration: none;
+}
